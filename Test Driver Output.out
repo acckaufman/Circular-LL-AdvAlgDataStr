@@ -1,0 +1,71 @@
+Begin test driver for the CircularType ADT.
+
+Now creating a circular linked list of integers...
+Done.
+
+Now inserting 2 into the list...
+Done.
+
+The current list (repeated twice) is: 2 2 
+List length is 1.
+
+Now inserting 5, 8, 1, and 7 into the list...
+Done.
+
+The current list (repeated twice) is: 2 5 8 1 7 2 5 8 1 7 
+List length is 5.
+
+Now copying List1 into a new List2 using the copy constructor...
+Done.
+
+List1:
+The current list (repeated twice) is: 2 5 8 1 7 2 5 8 1 7 
+List length is 5.
+
+List2:
+The current list (repeated twice) is: 2 5 8 1 7 2 5 8 1 7 
+List length is 5.
+
+Now emptying List2...
+Done.
+
+List2:
+The current list (repeated twice) is: 
+List length is 0.
+
+Attempting to find 4 in List1...
+404! Item not found.
+
+Attempting to find 5 in List1...
+5 was found in the list.
+
+Now testing whether List1 is empty...
+Done.
+List1 has items.
+
+Now testing whether List1 is full...
+Done.
+There is still memory available to add to List1.
+
+Now deleting the last item (7) in List1...
+Done.
+
+List1:
+The current list (repeated twice) is: 2 5 8 1 2 5 8 1 
+List length is 4.
+
+Now deleting the remaining items in List1...
+Done.
+
+List1:
+The current list (repeated twice) is: 
+List length is 0.
+
+Now testing whether List1 is empty...
+Done.
+List1 is empty.
+
+List1 now contains 0 items.
+
+End test driver for the CircularType ADT.
+

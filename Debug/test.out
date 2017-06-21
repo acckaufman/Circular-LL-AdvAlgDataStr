@@ -1,0 +1,11 @@
+Begin test driver for the CircularType ADT.
+
+Now creating a circular linked list of integers...
+Done.
+
+Now inserting 2 into the list...
+Done.
+
+The current list (repeated twice) is: 2 2 
+List length is 1.
+
